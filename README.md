@@ -1,7 +1,7 @@
 # My_portfolio_website
 Ayodeji's data science portfolio
 
-[PRROJECT 1: Data Science Salary Estimator](https://github.com/hoshAI/ds_salary_proj)
+# [PRROJECT 1: Data Science Salary Estimator](https://github.com/hoshAI/ds_salary_proj)
 * Created a tool that estimates data science salaries (MAE ~ $ 11k) to help data scientists negotiate their income when they get a job.
 * Scraped over 1000 job description from glassdoor using python and selenium
 * Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark.
