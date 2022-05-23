@@ -8,7 +8,7 @@ Ayodeji's data science portfolio
 * Optimised Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model.
 * Built a client facing API using flask
 
-![](/images/position_by_state.png)
+![](/images/datascienceimage.png)
 
 
 # [Project 2: Ball Image Classifier](https://github.com/hoshAI/ball_image_classifier)
