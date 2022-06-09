@@ -17,3 +17,8 @@ For this example project I built a ball classifier to identify balls from differ
 I was able to get the model to predict the sport of the ball with 94% accuracy after minimal tuning. For most of the cases this would meet the needof an end user of the app. To get these results I used transfer learning on a CNN trained on resnet34.This create time efficiencies and solid results.
 
 ![](/images/football_confusion.png)
+
+# [project 3: Financial Model For a Fintech Company](https://github.com/hoshAI/financial_model_proj)
+* built a model for fraud prevention.
+* built another project for risk analytics;
+* analysed over a thousand customer behavior for a cetain product which in turn is used for the improvement of the product.
